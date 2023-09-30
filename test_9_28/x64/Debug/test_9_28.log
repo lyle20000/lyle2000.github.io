@@ -1,0 +1,3 @@
+﻿  test.c
+E:\computer\code\c-language-learning\test_9_28\test.c(44,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  test_9_28.vcxproj -> E:\computer\code\c-language-learning\test_9_28\x64\Debug\test_9_28.exe
